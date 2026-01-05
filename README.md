@@ -70,8 +70,14 @@
 
 <p><strong>Databases</strong></p>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
   </a>
 </p>
 
